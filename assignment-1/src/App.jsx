@@ -20,7 +20,7 @@ function Navbar() {
 function Header() {
   return (
     <header className="header-hero">
-      <h1>Hello, I'm <span className="highlight">Mouli Jana</span></h1>
+      <h1>Hello, I'm <span className="highlight">souvik pramanick</span></h1>
       <p>Passionate Web Developer & Computer Science Student</p>
     </header>
   );
@@ -91,10 +91,10 @@ function Contact() {
     <section id="contact" className="section-block">
       <h2 className="section-title">Contact Information</h2>
       <div className="contact-info">
-        <p><strong>Email:</strong> moulijana.dev@example.com</p>
+        <p><strong>Email:</strong> souvik.dev@example.com</p>
         <p><strong>Phone:</strong> +91 98765 43210</p>
         <p><strong>Location:</strong> West Bengal, India</p>
-        <p><strong>LinkedIn:</strong> linkedin.com/in/moulijana-sample</p>
+        <p><strong>LinkedIn:</strong> linkedin.com/in/souvik-sample</p>
       </div>
     </section>
   );
